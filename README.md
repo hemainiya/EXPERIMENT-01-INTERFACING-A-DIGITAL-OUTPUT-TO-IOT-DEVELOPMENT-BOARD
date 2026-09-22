@@ -313,9 +313,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-```
-## 1B
-~~~
+
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -543,10 +541,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 ```
 ## OUTPUT
-<img width="1195" height="896" alt="WhatsApp Image 2026-09-15 at 3 02 14 PM" src="https://github.com/user-attachments/assets/4fe04e4c-0f2f-47ac-ad13-ed1f7d238544" />
-<img width="1195" height="896" alt="WhatsApp Image 2026-09-15 at 3 02 40 PM" src="https://github.com/user-attachments/assets/f4ebc277-c18e-4db4-bd1c-52d8f92c10d2" />
-<img width="768" height="1365" alt="WhatsApp Image 2026-09-15 at 3 03 17 PM" src="https://github.com/user-attachments/assets/43f9702c-3234-46fb-8708-04783b1d6960" />
-<img width="768" height="1365" alt="WhatsApp Image 2026-09-15 at 3 03 52 PM" src="https://github.com/user-attachments/assets/c5eeb686-d061-445a-81c2-8fe444804519" />
+
+<img width="1910" height="1196" alt="image" src="https://github.com/user-attachments/assets/05667311-ead4-4a60-b486-19255d68673f" />
+<img width="790" height="1250" alt="image" src="https://github.com/user-attachments/assets/054f8c23-6bc3-4704-8d62-522a2639cba3" />
+<img width="1904" height="1180" alt="image" src="https://github.com/user-attachments/assets/695f954b-17f9-4a3b-bbe9-15dd0c59a631" />
+<img width="796" height="1236" alt="image" src="https://github.com/user-attachments/assets/c5d51870-8ef3-4fde-b9d6-83bb1da5addd" />
+
 
 
 
